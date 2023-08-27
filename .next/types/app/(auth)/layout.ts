@@ -1,4 +1,4 @@
-// File: /Users/a111/PycharmProjects/x/app/(auth)/layout.tsx
+// File: /Users/a111/DevTools/x/app/(auth)/layout.tsx
 import * as entry from '../../../../app/(auth)/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
